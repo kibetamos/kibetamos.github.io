@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kibet Amos/ Database Admin"
 title_separator          : "-"
 name                     : &name "Amos Kibet"
 description              : &description "Information Technology Student "
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Amos Kibet', 'Kibetamos511@gmail.com', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -46,7 +46,7 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
+atom_feed:z
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amos Kibet"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Business Intelligence and Database Admin"
   location         : "Nairobi-Kenya"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/kibetamos"
   google_plus      :
   keybase          :
   instagram        :
