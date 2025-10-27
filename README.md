@@ -30,7 +30,7 @@ I enjoy working with **Python**, **Node.js**, and **React**, and I’m always ex
 
 ## 📫 Contact
 - **GitHub:** [@kibetamos](https://github.com/kibetamos)  
-- **LinkedIn:** [linkedin.com/in/kibetamos]([https://linkedin.com/in/kibetamos](https://www.linkedin.com/in/amos-kibet-b83681167/))
+- **LinkedIn:** [https://www.linkedin.com/in/amos-kibet-b83681167](https://www.linkedin.com/in/amos-kibet-b83681167/)
 
 ---
 
